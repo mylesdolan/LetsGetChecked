@@ -9,8 +9,8 @@ namespace LetsSolution
 {
     class Program
     {
-        static string settingspath = "C:\\Jobs17\\Lets\\Settings.txt";
-        static string sequencespath = "C:\\Jobs17\\Lets\\Sequences.txt";
+        static string settingspath = "C:\\tmp\\Settings.txt";
+        static string sequencespath = "C:\\tmp\\Sequences.txt";
         static void Main(string[] args)
         {
             Settings initial_settings = new Settings();
