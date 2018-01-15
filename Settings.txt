@@ -1,0 +1,8 @@
+board_size_x=4
+board_size_y=4
+starting_point_x=0
+starting_point_y=1
+exit_point_x=3
+exit_point_y=2
+starting_direction=North
+mines=(1,2);(2,1);(0,3)
