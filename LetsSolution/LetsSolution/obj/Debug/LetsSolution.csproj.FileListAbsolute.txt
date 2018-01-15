@@ -1,0 +1,6 @@
+C:\Jobs17\Lets\LetsSolution\LetsSolution\bin\Debug\LetsSolution.exe.config
+C:\Jobs17\Lets\LetsSolution\LetsSolution\obj\Debug\LetsSolution.csprojResolveAssemblyReference.cache
+C:\Jobs17\Lets\LetsSolution\LetsSolution\bin\Debug\LetsSolution.exe
+C:\Jobs17\Lets\LetsSolution\LetsSolution\bin\Debug\LetsSolution.pdb
+C:\Jobs17\Lets\LetsSolution\LetsSolution\obj\Debug\LetsSolution.exe
+C:\Jobs17\Lets\LetsSolution\LetsSolution\obj\Debug\LetsSolution.pdb
